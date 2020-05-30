@@ -7,7 +7,7 @@ import javax.swing.Timer;
 
 /**
  *
- * @author Rodrigo
+ * @author Rodrigo & Dyego
  */
 public class app extends javax.swing.JFrame implements Runnable {
     Timer t;
